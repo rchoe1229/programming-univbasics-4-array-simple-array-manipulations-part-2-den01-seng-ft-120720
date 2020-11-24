@@ -15,5 +15,5 @@ def using_flatten(array)
 end
 
 def using_delete(instructors, no_offense_steven)
-  array.delete("Steven")
+  instructors.delete("Steven")
 end
