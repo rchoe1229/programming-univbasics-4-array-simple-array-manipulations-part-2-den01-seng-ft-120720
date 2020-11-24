@@ -1,2 +1,3 @@
-def using_concat(my_favorite_thigns, more_favs)
-  my_favorite_thigns.concat
+def using_concat(my_favorite_things, more_favs)
+  my_favorite_things.concat(more_favs)
+end
